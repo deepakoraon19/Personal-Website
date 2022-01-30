@@ -1,21 +1,55 @@
 body{
-    background-color: #ebe9fc;;
+    margin:0;
+    text-align: center;
+    
 }
-hr{
-    border-style: none;
-    border-top-style: dotted;
-    border-color: grey;
-    border-width: 5px;
-    /*background-color:#dad7fa;*/
-    height:0px;
-    width:10%;
-}
-h2{
-    color: #7C99AC;
+h1{
+    font-family: 'Comforter';
+    font-size: 5rem;
+    color: #1c50dd;
+    line-height: 2;
+    
 }
 h3{
-    color: #7C99AC;
+    font-family:'Roboto';
+    color: #1c50dd;
+
 }
-.image:hover{
-    background-color: black;
+p{
+    
+}
+.profile_pic{
+    margin-top: 50;
+    height: 20%;
+}
+.clouds{
+    height:10%;
+    position:absolute;
+    right:1000;
+
+}
+.clouds2{
+    height:10%;
+    position:absolute;
+    right:300;
+}
+.mountain{
+    margin-top: 60;
+}
+.top{  
+    background-color: #CADEFC;
+    /*background-image: url("images/mountain_bg.jpg");*/
+    position: relative;
+    padding: 100;
+
+ 
+    
+    
+
+}
+.middle{
+    
+}
+.bottom{
+   
 }
